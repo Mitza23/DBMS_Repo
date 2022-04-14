@@ -9,3 +9,14 @@ D:\Facultate\Sem_4\DBMS\Labs\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
 D:\Facultate\Sem_4\DBMS\Labs\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
 D:\Facultate\Sem_4\DBMS\Labs\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
 D:\Facultate\Sem_4\DBMS\Labs\Lab1\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+D:\Facultate\Sem_4\DBMS\Labs\DBMS_Repo\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Facultate\Sem_4\DBMS\Labs\DBMS_Repo\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Facultate\Sem_4\DBMS\Labs\DBMS_Repo\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Facultate\Sem_4\DBMS\Labs\DBMS_Repo\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\Facultate\Sem_4\DBMS\Labs\DBMS_Repo\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\Sem_4\DBMS\Labs\DBMS_Repo\Lab1\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+D:\Facultate\Sem_4\DBMS\Labs\DBMS_Repo\Lab1\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\Facultate\Sem_4\DBMS\Labs\DBMS_Repo\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\Facultate\Sem_4\DBMS\Labs\DBMS_Repo\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Facultate\Sem_4\DBMS\Labs\DBMS_Repo\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Facultate\Sem_4\DBMS\Labs\DBMS_Repo\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
